@@ -1,6 +1,6 @@
 # Detecting Fraud in Online E-Commerce Transactions
 
-The goal of this project is to predict the probability that an online transaction is fraudulent.
+The goal of this project is to predict the probability that an online e-commerce transaction is fraudulent.
 
 I compare and tune several classifiers to select the best model, which can improve the efficacy of fraudulent transaction alerts, helping businesses reduce their fraud loss and improve customer satisfaction.
 
