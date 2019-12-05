@@ -6,8 +6,7 @@ I compare and tune several classifiers to select the best model, which can impro
 
 Data: https://www.kaggle.com/c/ieee-fraud-detection/data
 
-Pipeline:
-
+Topics:
 - Exploratory Data Analysis
 - Feature Engineering (including Principal Component Analysis (PCA))
 - Class Imbalance Techniques (Random Undersampling, Synthetic Minority Oversampling Technique (SMOTE))
