@@ -1,4 +1,4 @@
-## Detecting Fraud in eCommerce Transactions
+# Detecting Fraud in eCommerce Transactions
 
 (Data: https://www.kaggle.com/c/ieee-fraud-detection/data)
 
@@ -14,5 +14,5 @@ Topics:
 - Model selection and tuning (Logistic Regression, Decision Tree, Gradient Boosting Classifier, Random Forest Classifier, GridSearchCV)
 - Model evaluation (Area under Receiver Operating Characteristics curve (ROC AUC))
 
-# Summary Findings
+## Summary Findings
 After analyzing the data and comparing models, I trained a gradient boosting classifier with ROC AUC=0.94. There is a 94% chance that this model will be able to distinguish between fraudulent and normal transactions.
